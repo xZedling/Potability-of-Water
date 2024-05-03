@@ -10,12 +10,12 @@ The dataset used for this project contains features related to water bodies and 
 
 The following machine learning models have been implemented in the Jupyter notebook along with their corresponding accuracy scores:
 
-1. Logistic Regression: 0.53
-2. K Nearest Neighbours (KNN): 0.80
-3. Decision Tree: 0.81
-4. Random Forest: 0.89
-5. AdaBoost: 0.73
-6. XGBoost: 0.84
+1. **Logistic Regression**: 0.53
+2. **K Nearest Neighbours (KNN)**: 0.80
+3. **Decision Tree:** 0.81
+4. **Random Forest:** 0.89
+5. **AdaBoost:** 0.73
+6. **XGBoost:** 0.84
 
 Additionally, two more models have been evaluated with the following accuracy scores:
 
@@ -32,7 +32,7 @@ To run the Jupyter notebook locally, follow these steps:
    ```
 2. Navigate to the project directory.
    ```
-   cd water-bodies-classification
+   cd Potability-of-Water
    ```
 3. Install the required dependencies using pip.
    ```
@@ -42,7 +42,7 @@ To run the Jupyter notebook locally, follow these steps:
    ```
    jupyter notebook
    ```
-5. Open the `Water_Bodies_Classification.ipynb` notebook and execute the cells to explore the code and results.
+5. Open the `Potability of Water.ipynb` notebook and execute the cells to explore the code and results.
 
 ## Contributing
 
